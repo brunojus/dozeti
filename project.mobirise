@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#0f7699",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -492,7 +492,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Nós da DOZE Tecnologia auxiliamos a sua empresa na redução de custos de operação com a automação e integração de sistemas com processos de RPA - Robotic Process Automation e RDA - Robotic Desktop automation, garantindo  precisão, velocidade com eficiência de mais de 200%  comparados aos processo convencionais realizados.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#0f7699\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Nós da DOZE Tecnologia auxiliamos a sua empresa na redução de custos de operação com a automação e integração de sistemas com processos de RPA - Robotic Process Automation e RDA - Robotic Desktop automation, garantindo  precisão, velocidade com eficiência de mais de 200%  comparados aos processo convencionais realizados.&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "que3EzWxvB",
           "_protectedParams": [],
           "_global": false,
@@ -526,7 +526,8 @@
               "text-align": "center"
             },
             ".card-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#0f7699"
             }
           },
           "_name": "features2",
@@ -619,6 +620,12 @@
               ".card-img span": {
                 "font-size": "40px !important"
               }
+            },
+            "H2": {
+              "color": "#0f7699"
+            },
+            "H4": {
+              "color": "#0f7699"
             }
           },
           "_name": "features11",
@@ -668,6 +675,9 @@
                 "-webkit-flex-basis": "33%",
                 "flex-basis": "33%"
               }
+            },
+            ".mbr-section-title": {
+              "color": "#0f7699"
             }
           },
           "_name": "progress-bars3",
@@ -721,6 +731,9 @@
               ".panel-body": {
                 "color": "#767676"
               }
+            },
+            "H2": {
+              "color": "#0f7699"
             }
           },
           "_name": "accordion1",
@@ -843,7 +856,7 @@
               "color": "#232323"
             },
             "H2": {
-              "color": "#232323"
+              "color": "#0f7699"
             },
             "H5": {
               "color": "#232323"
