@@ -777,7 +777,7 @@
               }
             },
             ".mbr-text": {
-              "color": "#cccccc"
+              "color": "#232323"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
@@ -837,7 +837,7 @@
               }
             },
             "DIV": {
-              "color": "#c1c1c1"
+              "color": "#232323"
             },
             "H4": {
               "color": "#232323"
@@ -846,7 +846,7 @@
               "color": "#232323"
             },
             "H5": {
-              "color": "#cccccc"
+              "color": "#232323"
             },
             "B": {
               "color": "#232323"
